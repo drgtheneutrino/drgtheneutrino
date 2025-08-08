@@ -1,5 +1,5 @@
 # About Me
-Undergraduate Nuclear Physics student and graduate Health Physics student with a strong passion for math, physics, and chemistry. I enjoy applying scientific thinking to programming projects, especially in algorithmic trading, data analysis, and automation. I value writing clean, well-structured, and reproducible code.
+Undergraduate Physics student and graduate Health Physics student with a strong passion for math, physics, and chemistry. I enjoy applying scientific thinking to programming projects, especially in algorithmic analysis, nuclear modeling, and automation. I value writing clean, well-structured, and reproducible code.
 
 ## Currently Working On
 - Developing and refining an Alpaca paper trading bot with advanced strategy logic, risk controls, and full backtesting capabilities  
